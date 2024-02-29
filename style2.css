@@ -1,0 +1,15 @@
+.carousel .carousel-indicators button{
+    background-color: greenyellow;
+}
+
+#carouselExampleIndicator2.carousel .carousel-indicators .active {
+    background-color: blue;
+}
+
+#carouselExampleIndicator2.carousel .carousel-indicators button{
+    background-color: cyan;
+}
+
+.carousel-2 .carousel-indicators .active{
+    background-color: green;
+}
